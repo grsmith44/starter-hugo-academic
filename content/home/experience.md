@@ -23,12 +23,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD, Theoretical Physics
+    company: Imperial College London
+    company_logo: org-x
+    location: London, UK
+    date_start: '2019-10-01'
+    date_end: ''
+    description: Distinction
+    
+    
   - title: Masters of Mathematics
     company: Cambridge University
     company_logo: org-x
     location: Cambridge, UK
-    date_start: '01/10/2018'
-    date_end: '22/07/2019'
+    date_start: '2018-10-01'
+    date_end: '2019-07-22'
     description: Distinction
 
   - title: BA Natural Sciences
@@ -36,9 +45,9 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Cambridge, UK
-    date_start: '01/10/2015'
-    date_end: '22/07/2018'
-    description: First Degree Hons every year
+    date_start: '2015-10-01'
+    date_end: '2018-07-22'
+    description: First Degree Hons.
 
 design:
   columns: '2'
