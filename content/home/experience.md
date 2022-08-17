@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: PhD, Theoretical Physics
     company: Imperial College London
-    company_logo: org-x
+    company_logo: Imperial_College_London_Logo.png
     location: London, UK
     date_start: '2019-10-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
     
   - title: Masters of Mathematics
     company: Cambridge University
-    company_logo: org-x
+    company_logo: University_of_Cambridge_crest_logo.png
     location: Cambridge, UK
     date_start: '2018-10-01'
     date_end: '2019-07-22'
@@ -42,8 +42,7 @@ experience:
 
   - title: BA Natural Sciences
     company: Cambridge University
-    company_url: ''
-    company_logo: org-x
+    company_logo: University_of_Cambridge_crest_logo.png
     location: Cambridge, UK
     date_start: '2015-10-01'
     date_end: '2018-07-22'
