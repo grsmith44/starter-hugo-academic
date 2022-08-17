@@ -74,4 +74,4 @@ My research is currently focused on the special holonomy manifolds arising in M-
 
 I have an MMath from the University of Cambridge, graduating with a Distinction in 2019.  I was awarded the Vice Chancellor award for academic performance and promise, alongside earlier David Thouless and Community contribution awards
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my CV{{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
