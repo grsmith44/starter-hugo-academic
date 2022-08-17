@@ -29,7 +29,7 @@ experience:
     location: London, UK
     date_start: '2019-10-01'
     date_end: ''
-    description: Distinction
+    description: 
     
     
   - title: Masters of Mathematics
@@ -38,7 +38,7 @@ experience:
     location: Cambridge, UK
     date_start: '2018-10-01'
     date_end: '2019-07-22'
-    description: Distinction
+    description: Grade: Distinction
 
   - title: BA Natural Sciences
     company: Cambridge University
@@ -46,7 +46,7 @@ experience:
     location: Cambridge, UK
     date_start: '2015-10-01'
     date_end: '2018-07-22'
-    description: First Degree Hons.
+    description: Grade: First Degree Hons.
 
 design:
   columns: '2'
