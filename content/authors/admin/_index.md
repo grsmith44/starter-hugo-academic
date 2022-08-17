@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Imperial College London
-    url: [https://www.imperial.ac.uk/theoretical-physics/people/phd-students/]
+    url: https://www.imperial.ac.uk/theoretical-physics/people/phd-students/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Flux Compactifications, Moduli Stabilisation and Stability.
