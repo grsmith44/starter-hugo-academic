@@ -27,12 +27,6 @@ content:
   # Contact details (edit or remove options as required)
   email: grs19@ic.ac.uk
 
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: I don't really tweet
-      link: 'https://twitter.com/Twitter'
-
 
 design:
   columns: '2'
